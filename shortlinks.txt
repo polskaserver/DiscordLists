@@ -555,6 +555,7 @@ dis.gd/netneutrality
 dis.gd/new-mental-health-partnerships
 dis.gd/new-nitro-basic
 dis.gd/newlayout
+dis.gd/new-server-perks
 dis.gd/next-chapter
 dis.gd/nexxuzworld
 dis.gd/niscordditro
