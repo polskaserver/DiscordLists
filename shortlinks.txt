@@ -146,6 +146,7 @@ dis.gd/campwump22
 dis.gd/capcom-x-discord
 dis.gd/carmen-tw
 dis.gd/CCreatorPortal
+dis.gd/Changelog
 dis.gd/childsplaydiscordhype
 dis.gd/chromium-q-values
 dis.gd/ClaraDao
@@ -354,10 +355,12 @@ dis.gd/earthday
 dis.gd/easier-servers
 dis.gd/emmafrostquest
 dis.gd/emoji-effect
+dis.gd/EmojisAndMore
 dis.gd/en-servers
 dis.gd/entrancesounds
 dis.gd/events
 dis.gd/exam
+dis.gd/Fall25UpdateCL
 dis.gd/fallupdateig
 dis.gd/fallupdatetw
 dis.gd/fallupdateyt
